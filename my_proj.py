@@ -1,2 +1,4 @@
-print("hello world")
-print("bye world")
+def printer():
+
+    print("hello world")
+    print("bye world")
